@@ -3,4 +3,4 @@
  
 A fun app to learn about Triangles!
 
-[See it in action!](https://fun-angle.netlify.app/)
+[See it in action!]https://all-about-traingles.netlify.app/
